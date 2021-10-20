@@ -1,0 +1,11 @@
+body{
+    background-color: blue;
+    color: burlywood;
+    margin: auto;
+}
+h2{
+    text-align: center;
+}
+div{
+    padding-bottom: 15px;
+}
